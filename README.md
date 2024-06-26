@@ -1,2 +1,5 @@
-# FDS-2024-1-CC52
-Repositorio para el trabajo final del curso de fundamentos de data science
+# Objetivo del proyecto
+# Nombre de los alumnos participantes
+# Descripcion de nuestro conjunto de datos
+# Conclusiones de uso
+# Licencia de uso
